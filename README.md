@@ -12,7 +12,7 @@ My current flagship project is **TripCraft**, an AI-assisted travel planning app
 
 ## Featured Project
 
-### TripCraft
+### [TripCraft](https://github.com/hutanmario/tripcraft)
 
 An intelligent travel planner that builds a traveler profile from an adaptive quiz or selected travel photos, recommends destinations, and generates personalized multi-day itineraries.
 
@@ -31,4 +31,3 @@ Tech: `React Native` `Expo` `FastAPI` `PostgreSQL` `SQLAlchemy` `PyTorch` `Trans
 - Recommendation evaluation
 - Mobile UX for complex decision flows
 - Production hardening for ML-backed APIs
-
