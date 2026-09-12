@@ -31,3 +31,5 @@ Tech: `React Native` `Expo` `FastAPI` `PostgreSQL` `SQLAlchemy` `PyTorch` `Trans
 - Recommendation evaluation
 - Mobile UX for complex decision flows
 - Production hardening for ML-backed APIs
+
+<!-- profile-refresh: 2026-09-12 -->
